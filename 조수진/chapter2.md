@@ -1,3 +1,9 @@
+## Chapter2 공부 정리한 블로그 링크
+
+[블로그 링크](https://velog.io/@sujinjwa/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D )
+
+<br />
+
 ## 2장. 타입스크립트: 3,000미터 상공에서 내려다보기
  ### 2.1 컴파일러
  
