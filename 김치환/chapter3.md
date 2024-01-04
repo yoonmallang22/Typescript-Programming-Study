@@ -1,5 +1,29 @@
 # 목차
 
+- [목차](#목차)
+- [타입이란](#타입이란)
+- [any](#any)
+- [unknown](#unknown)
+- [boolean](#boolean)
+- [number](#number)
+- [bigint](#bigint)
+- [string](#string)
+- [symbol](#symbol)
+- [객체](#객체)
+- [타입별칭](#타입별칭)
+- [유니온 타입](#유니온-타입)
+  - [유니온 타입 주의사항](#유니온-타입-주의사항)
+- [인터섹션 타입](#인터섹션-타입)
+- [배열](#배열)
+- [튜플](#튜플)
+  - [읽기 전용 배열과 튜플](#읽기-전용-배열과-튜플)
+- [null, undefined, void, never](#null-undefined-void-never)
+  - [null](#null)
+  - [undefined](#undefined)
+  - [void](#void)
+  - [never](#never)
+- [열거형](#열거형)
+
 # 타입이란
 
 - 타입이란 값과 이 값으로 할 수 있는 일의 집합
