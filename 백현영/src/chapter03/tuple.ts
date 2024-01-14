@@ -1,3 +1,6 @@
+// --- Tuple ---
+// 배열의 서브타입이다.
+
 type threeLengthArr = [number, number, number];
 type imutableThreeLengthArr = readonly [number, number, number];
 
