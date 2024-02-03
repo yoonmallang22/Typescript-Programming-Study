@@ -1,5 +1,5 @@
 const input8 = document.querySelector("input");
-const worker = new Worker("WorkerScript1.js");
+const worker = new Worker("001-WorkerScript.js");
 input8!.addEventListener("input", (e: Event) => {
   const target = e.target as HTMLInputElement;
   // postMessage API
